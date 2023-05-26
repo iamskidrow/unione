@@ -1,0 +1,40 @@
+{
+  "Engineering and Technology": [
+    "Computer Applications",
+    "Computer Science and Engineering",
+    "Electrical & Electronics Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering"
+  ],
+  "Basic and Applied Sciences": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Geography"
+  ],
+  "Liberal Arts and Culture Studies": [
+    "Language and Literature",
+    "Social Sciences",
+    "Psychology"
+  ],
+  "Law and Justice": [
+    "Law"
+  ],
+  "Business and Economics": [
+    "Management",
+    "Economics and Commerce"
+  ],
+  "Life Science and Biotechnology": [
+    "Biological Sciences",
+    "Biotechnology"
+  ],
+  "Education": [
+    "Education"
+  ],
+  "Smart Agriculture": [
+    "Agriculture"
+  ],
+  "Media and Communication": [
+    "Journalism and Mass Communication"
+  ]
+}
