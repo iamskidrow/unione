@@ -27,6 +27,21 @@ Unione is an innovative and comprehensive university management system designed 
 - **Attendance Monitoring**: Track attendance records with detailed statistics, empowering students to stay on top of their academic commitments.
 - **Timetable and Noticeboard**: Easily access personal class schedules and stay updated with important notices and announcements.
 
+## API Documentation
+
+This section provides detailed documentation for the APIs available in the Unione project. The APIs are categorized based on their functionality and can be used by developers to interact with different aspects of the university management system.
+
+- [Admin API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Admin.md)
+- [Attendance API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Attendance.md)
+- [Course API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Course.md)
+- [Exams API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Exams.md)
+- [Homeworks API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Homeworks.md)
+- [Notice API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Notice.md)
+- [Student API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Student.md)
+- [Teacher API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Teacher.md)
+- [Timetable API](https://github.com/iamskidrow/unione/blob/main/Docs/API/Timetable.md)
+
+
 ## Installation and Setup
 
 To set up and start the Unione project, please follow the steps below:
